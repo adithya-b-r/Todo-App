@@ -131,6 +131,9 @@ header h1{
     background-color: rgba(128, 128, 128, 0.399);
 }
 
+footer p{
+    font-weight: 400;
+}
 
 @media (max-width:600px){
     .content {

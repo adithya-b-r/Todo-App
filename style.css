@@ -33,7 +33,7 @@ header {
 header h1{
     font-size: 3rem;
     color:darkorange;
-    -webkit-text-stroke: ridge #000 1px;
+    -webkit-text-stroke: #000 1px;
     letter-spacing: 2px;
 }
 

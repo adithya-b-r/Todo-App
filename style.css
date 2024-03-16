@@ -31,7 +31,7 @@ header {
 }
 
 header h1{
-    font-size: 2.5rem;
+    font-size: 3rem;
     color:darkorange;
     -webkit-text-stroke: #000 1px;
     letter-spacing: 2px;
@@ -56,6 +56,7 @@ header h1{
 }
 
 .content .box1 input[type="text"]{
+    font-size: 1.1rem;
     width: 80%;
     height: 75%;
     padding-left: 10px;
@@ -68,7 +69,7 @@ header h1{
 }
 
 .content .box1 input[type="button"]{
-    font-size: 1rem;
+    font-size: 1.1rem;
     width: 15%;
     height: 80%;
     border: none;
@@ -95,7 +96,6 @@ header h1{
 .content .box2 ul{
     margin: 3px 3px;
     max-height: 100vh;
-
 }
 
 .content .box2 ul li{
@@ -105,7 +105,7 @@ header h1{
     color:darkcyan;
 
     font-family:cursive;
-    font-size: 1rem;
+    font-size: 1.3rem;
     letter-spacing: .5px;
     margin: 5px;
     padding: 5px 10px;

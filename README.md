@@ -24,7 +24,7 @@ The app is deployed and accessible at: [abr-todo-app.netlify.app](https://abr-to
 
 ## Screenshots
 
-![Todo App Screenshot](screenshots/img.png)
+![Todo App Screenshot](todo.jpg)
 
 ## Developed by
 

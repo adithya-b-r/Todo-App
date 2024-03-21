@@ -29,4 +29,4 @@ The app is deployed and accessible at: [abr-todo-app.netlify.app](https://abr-to
 
 ## Developed by
 
-- [ABR](https://github.com/Abr009)
+- [Adithya B R](https://github.com/Abr009)

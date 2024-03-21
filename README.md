@@ -12,6 +12,7 @@ This Todo App allows users to add tasks, mark them as completed, and delete them
 - Mark tasks as completed
 - Delete tasks
 - Data persistence: Tasks are saved locally and loaded on page refresh
+- Mobile device compatibility and responsive design
 
 ## Deployment
 
